@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #gifs-appear-here {
     display: flex;
     flex-wrap: wrap;
@@ -27,3 +28,11 @@ body{
 background-color: deepskyblue;
 color: darkcyan;
 }
+=======
+flex-wrap:wrap;
+.display:flex;
+justify-content: space-around;
+flex:1
+display:block;
+flex basis:33%;
+>>>>>>> 05414d70387269173f4bc40cb424463a55c1a0ea
